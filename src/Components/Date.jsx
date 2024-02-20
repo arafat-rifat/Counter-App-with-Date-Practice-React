@@ -2,7 +2,7 @@ import React from 'react'
 
 const Date = () => {
   return (
-    <div>Date</div>
+    <p className='font-bold text-2xl'>30 days from today is Wed Jul 21 2027</p>
   )
 }
 
